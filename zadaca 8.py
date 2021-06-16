@@ -8,4 +8,4 @@ print(druga("Boris"))
 def treca():
   return druga("Boris")
 print(treca())
-© 2021 GitHub, Inc.
+
